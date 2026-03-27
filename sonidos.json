@@ -1,0 +1,10 @@
+[
+  {
+    "nombre": "win_sound",
+    "url": "https://github.com/AaronWzks/NF2_multimedia/blob/main/win_sound.mp3"
+  },
+  {
+    "nombre": "lose_sound",
+    "url": "https://github.com/AaronWzks/NF2_multimedia/blob/main/lose_sound.mp3"
+  }
+]
